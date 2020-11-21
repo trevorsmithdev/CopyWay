@@ -1,0 +1,12 @@
+## Interface: 90002
+## Version: 0.1
+## Title: CopyWay
+## Author: byzendor
+## Notes: Sets a player waypoint from x, y coordinates.
+## SavedVariables: CopyWayDb
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+embeds.xml
+
+Core.lua
